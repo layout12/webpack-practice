@@ -69,7 +69,7 @@ console.log(i)
 
 # Webpack 프로젝트 시작
 > - Node.js환경에서 작업
-> - VSCode에 'Webpack-template-basic' 폴더를 만들어 프로젝트 생성
+> - VSCode에 'webpack-practice' 폴더를 만들어 프로젝트 생성
 > - 패키지 설치와 서버 온오프는 VSCode 터미널에 명령어로 실행
 
 ## 패키지 설치 및 초기설정
